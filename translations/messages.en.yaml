@@ -1,0 +1,4 @@
+form:
+  firstname: "First name"
+  lastname: "Last name"
+  description: "Description"
